@@ -34,3 +34,13 @@ $i=500;
   echo $$j;
 
   ?>
+
+  <!-- loop in php_check_syntax  -->
+  <?php
+
+    for($i=1;$i<=5;$i++){
+         echo $i."<br>";
+    }
+
+
+?>
